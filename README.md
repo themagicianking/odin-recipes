@@ -1,4 +1,4 @@
-This project is a demonstration of all that I have learned with TOP thus far with regards to HTML
+This project is a demonstration of all that I have learned with TOP thus far with regards to HTML.
 
 It will demonstrate my ability to:
 -write an html boilerplate
