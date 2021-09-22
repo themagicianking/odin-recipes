@@ -1,8 +1,8 @@
 body {
-    background-color: gray;
+    background-color: #272727;
 }
 
-h1 {
+h1, h2, p, li {
     color: #ffffff;
     font-family: 'DM Sans', sans-serf;
     text-align: center;
